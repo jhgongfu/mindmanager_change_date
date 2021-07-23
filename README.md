@@ -1,6 +1,6 @@
 # mindmanager_change_date
 
-mindmanager2020版本使用SN：MP20-888-MP11-AAA5-BBBB提示过期需要修改系统时间，故写个脚本图省事。
+mindmanager2020版本使用SN：MP20-888-MP11-AAA5-BBBB提示过期需要修改系统时间，故写个脚本图省事。...
 
 exe文件由 pyinstaller -F -w date_change.py 生成。
 
